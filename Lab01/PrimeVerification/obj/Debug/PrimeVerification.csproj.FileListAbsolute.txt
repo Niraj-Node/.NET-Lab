@@ -1,0 +1,8 @@
+C:\Users\user1\source\repos\Lab1\PrimeVerification\obj\Debug\PrimeVerification.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Lab1\PrimeVerification\obj\Debug\PrimeVerification.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\source\repos\Lab1\PrimeVerification\obj\Debug\PrimeVerification.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Lab1\PrimeVerification\bin\Debug\PrimeVerification.exe.config
+C:\Users\user1\source\repos\Lab1\PrimeVerification\bin\Debug\PrimeVerification.exe
+C:\Users\user1\source\repos\Lab1\PrimeVerification\bin\Debug\PrimeVerification.pdb
+C:\Users\user1\source\repos\Lab1\PrimeVerification\obj\Debug\PrimeVerification.exe
+C:\Users\user1\source\repos\Lab1\PrimeVerification\obj\Debug\PrimeVerification.pdb
